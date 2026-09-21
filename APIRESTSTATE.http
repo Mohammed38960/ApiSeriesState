@@ -1,0 +1,6 @@
+@APIRESTSTATE_HostAddress = http://localhost:5268
+
+GET {{APIRESTSTATE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
