@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="APIRESTSTATE/Api_Rest_State.csproj" />
+  <Project Path="Api_Rest_State_Tests/Api_Rest_State_Tests.csproj" />
+</Solution>
